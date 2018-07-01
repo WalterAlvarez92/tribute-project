@@ -8,5 +8,6 @@ img {
     margin-right: auto;
     width: 70%;
 }
-h2 {font-family: monospace;}
+h2 {font-family: monospace;
+    color: whitesmoke;}
 li {list-style: none;}
