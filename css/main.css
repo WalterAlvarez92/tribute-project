@@ -1,0 +1,12 @@
+body {background-color: Lightslategrey;
+font-family: fantasy;
+text-align: center;}
+h1 {font-family: monospace;}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+h2 {font-family: monospace;}
+li {list-style: none;}
